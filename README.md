@@ -4,4 +4,5 @@
 * The script in jupyter notebook implemented the conventional RPCA algorithms for static background and moving foreground, which is looking of optimization on existing ones 
 * The script could be ran on high performance server and machine instead of standalone local machine due to the high throughput required
 * Commented part of code and run it step by step on demand, due to the decomposition will enlarge the storage of original tensor,as the video tensor require memeory storage
+* You need to download the jupyter notebooks and the sample videos or replace by your own sample
 
